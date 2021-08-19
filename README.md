@@ -2,6 +2,30 @@
 
 asyncio-powered 2 LoC pure Python checking whether the number is odd
 
+## Usage
+
+```python
+import asyncio
+from aioisodd import is_odd
+
+
+async def main():
+    print(await is_odd(41))  # prints "True"
+    print(await is_odd('42'))  # prints "False"
+
+
+if __name__ == '__main__':
+    asyncio.run(main())
+```
+
+## Installation
+
+### With pip
+
+```
+pip install 'git+https://github.com/evgfilim1/aioisodd@master'
+```
+
 ## Changelog
 
 ### 0.2.3-post.0
