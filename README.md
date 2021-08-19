@@ -4,6 +4,10 @@ asyncio-powered 2 LoC pure Python checking whether the number is odd
 
 ## Changelog
 
+### 0.2.2
+
+- Fix bug when passing bool always returned False
+
 ### 0.2.2-beta.0
 
 - Fix TypeError when passing anything except str into method
