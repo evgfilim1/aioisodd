@@ -4,6 +4,11 @@ asyncio-powered 2 LoC pure Python checking whether the number is odd
 
 ## Changelog
 
+### 0.2.3-post.0
+
+- Fixed package being empty on install
+- Added lockfile
+
 ### 0.2.3
 
 - More effective check for big numbers
