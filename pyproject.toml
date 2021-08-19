@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "aioisodd"
-version = "0.2.1"
-description = "asyncio-powered checking whether the number is odd"
+version = "0.2.1-post.0"
+description = "asyncio-powered 2 LoC pure Python checking whether the number is odd"
 authors = ["evgfilim1 <evgfilim1@yandex.ru>"]
 license = "MIT"
 

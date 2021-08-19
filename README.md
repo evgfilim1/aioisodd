@@ -1,8 +1,12 @@
 # aioisodd
 
-asyncio-powered checking whether the number is odd
+asyncio-powered 2 LoC pure Python checking whether the number is odd
 
 ## Changelog
+
+### 0.2.1-post.0
+
+- Updated description
 
 ### 0.2.1
 
