@@ -4,6 +4,10 @@ asyncio-powered 2 LoC pure Python checking whether the number is odd
 
 ## Changelog
 
+### 0.2.3
+
+- More effective check for big numbers
+
 ### 0.2.2
 
 - Fix bug when passing bool always returned False
