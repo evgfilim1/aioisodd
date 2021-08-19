@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "aioisodd"
+version = "0.1.0"
+description = "asyncio-powered checking whether the number is odd"
+authors = ["evgfilim1 <evgfilim1@yandex.ru>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.5"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
